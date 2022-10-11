@@ -1,0 +1,15 @@
+name: Simple Login Page
+tags: ["HTML/CSS"]
+starter-files: https://github.com/DoraTheExplorax/html-playground-starter
+type: frontend
+level: easy
+cover-image: https://raw.githubusercontent.com/DoraTheExplorax/html-playground-starter/master/preview.png
+short-description: Starter login page project.
+long-description: Start by creating an easy login page. This is a good first step into frontend development.
+# https://codedamn.com/projects specific section
+codedamn:
+  helper-learning-path: frontend
+  show-community-banner: true
+  playground-layout: terminal-editor-browser
+  playground-image: html
+  guided: true
